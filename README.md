@@ -1,1 +1,1 @@
-# sw-go-constant
+# sw-go
