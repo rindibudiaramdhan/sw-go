@@ -12,6 +12,4 @@ const (
 	LogCategoryApp      = "app"
 	LogCategoryUsecase  = "usecase"
 	LogCategoryExternal = "external"
-
-	ServiceName = "pajak"
 )
